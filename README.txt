@@ -1,0 +1,5 @@
+Geog458_lab2
+
+This lab used a web crawler to collect tweets made in the US using the term "president" and then using QGIS the csv data collected on tweets was plotted on a map.
+
+Looking at the map I am suprised by how little tweeting comes from Alaska, while I am aware of the frontier wilderness in Alaska, this map gives a great example of how much of Alaska isn't inhabited with only one marker. While it is possible this one marker represents a low interest in the president, the state comparison of Alaska to other rural states seems to show that the lack of tweets is from the lack of population in Alaska. I make this conclusion because "president" is such a hot term right now with innauguration being only at the start of this month as of writing this. I also found it interesting how the East Coast has a very clearly larger pack of overlaying markers for tweets. Since the president and federal US government live on the East Coast and have historically been located there longer than the West Coast has been around under US geography this may be the reason that the East Coast has so many more tweets with more overlap visually on the map.
