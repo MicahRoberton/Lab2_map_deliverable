@@ -1,6 +1,7 @@
 Geog458_lab2
 
-![My map](/img/img/lab2_map_458.png)
+![My map](/img/lab2_map_458.png)
+
 
 This lab used a web crawler to collect tweets made in the US using the term "president" and then using QGIS the csv data collected on tweets was plotted on a map.
 
